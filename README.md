@@ -1,4 +1,12 @@
 
+1.
+~~~ shell
+git clone https://github.com/samtsai15/mac_config.git
+~~~
+
+2.
+~~~ shell
+cd mac_config
 ./trackpad.sh
 ./keyboard.sh
 ./homebrew.sh

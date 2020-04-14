@@ -10,7 +10,7 @@ cd mac_config
 ./trackpad.sh
 ./keyboard.sh
 ./homebrew.sh
-./dockeutil.sh
+./dockutil.sh
 ./git.sh
 ./nodejs.sh
 ./iterm2.sh

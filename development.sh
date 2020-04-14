@@ -10,6 +10,6 @@ apps=(
 
 
 for app in ${apps[@]}; do
-  brew cask install @app
+  brew cask install $app
 done
 

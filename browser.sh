@@ -8,6 +8,6 @@ apps=(
 #TODO: Chrome login?
 
 for app in ${apps[@]}; do
-  brew cask install @app
+  brew cask install $app
 done
 

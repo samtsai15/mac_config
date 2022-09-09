@@ -8,8 +8,9 @@ apps=(
  "the-unarchiver"
  "appcleaner"
  "iina-plus"
+ "numi"
 )
 
 for app in ${apps[@]}; do
-  brew cask install $app
+  brew install --cask $app
 done
